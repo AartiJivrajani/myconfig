@@ -1,0 +1,5 @@
+# to setup sublime text shortcut, create a symlink:
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+
+# to setup vs code command line shortcut:
+https://code.visualstudio.com/docs/setup/mac
