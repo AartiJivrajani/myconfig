@@ -3,3 +3,6 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 
 # to setup vs code command line shortcut:
 https://code.visualstudio.com/docs/setup/mac
+
+# to set up zsh on iterm
+https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59 
